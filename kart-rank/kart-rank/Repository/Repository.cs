@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Configuration;
+using System.Web;
 
 namespace kart_rank.Repository
 {
@@ -22,7 +23,9 @@ namespace kart_rank.Repository
             List<T> list = new List<T>();
             try
             {
-                file = new FileStream(ConfigurationManager.AppSettings["path"].ToString(), FileMode.Open);
+                var path = HttpContext.Current.Server.MapPath(ConfigurationManager.AppSettings["path"].ToString());
+
+                file = new FileStream(path, FileMode.Open);
                 reader = new StreamReader(file);
                 string line;
                 while ((line = reader.ReadLine()) != null)
