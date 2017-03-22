@@ -1,0 +1,45 @@
+﻿<div class="modal fade" id="myModalLap" tabindex="-1" role="dialog" aria-labelledby="myModalLap">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close js-close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLap">Best Lap</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="alert js-Mensagem hidden" role="alert"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="form-group">
+                            <label for="Email">Pilot Id :</label>
+                            <label id="AverageSpeed">{{result.PilotId}}</label>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="form-group">
+                            <label for="Email">Pilot Name : </label>
+                            <label id="AverageSpeed">{{result.PilotName}}</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="form-group">
+                            <label for="Email">Lap</label>
+                            <label id="AverageSpeed">{{result.BestLap}}</label>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="form-group">
+                            <label for="Email">Time Mim</label>
+                            <label id="AverageSpeed">{{result.TimeMim}}</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,88 @@
+﻿<div class="container" ng-init="ResultRace()">
+    <div>
+        <div class="row">
+            <div class="col-sm-12">
+                &nbsp;
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="row">
+            <div class="col-sm-12">
+                <h4>Result Race</h4>
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="table">
+            <div class="row">
+                <div class="col-sm-12">
+                    <table data-toggle="table" class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    PilotId
+                                </th>
+                                <th>
+                                    PilotName
+                                </th>
+                                <th>
+                                    ArrivalPosition
+                                </th>
+                                <th>
+                                    LapsCompleted
+                                </th>
+                                <th>
+                                    TotalRunTime
+                                </th>
+                                <th>
+                                    Best Lap
+                                </th>
+                                <th>
+                                    Average Speed
+                                </th>
+                                <th>
+                                    Result After Winner
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="row in arrayRace">
+                                <td>
+                                    {{row.PilotId}}
+                                </td>
+                                <td>
+                                    {{row.PilotName}}
+                                </td>
+                                <td>
+                                    {{row.ArrivalPosition}}
+                                </td>
+                                <td>
+                                    {{row.LapsCompleted}}
+                                </td>
+                                <td>
+                                    {{row.TotalRunTime}}
+                                </td>
+                                <td>
+                                   <input type="button" class="btn btn-primary" id="{{row.PilotId}}" value="Best Lap" ng-click="BestLap($event,$element)" />
+                                </td>
+                                <td>
+                                    <input type="button" class="btn btn-primary" id="{{row.PilotId}}" value="Average Speed" ng-click="AverageSpeed($event,$element)" />
+                                </td>
+                                <td>
+                                    <input type="button" class="btn btn-primary" id="{{row.PilotId}}" value="Result After Winner" ng-click="ResultAfterWinner($event,$element)" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<button type="button" id="js-show-lap" class="btn btn-primary btn-lg js-show-lap hidden" data-toggle="modal" data-target="#myModalLap"></button>
+<button type="button" id="js-show-average" class="btn btn-primary btn-lg js-show-average hidden" data-toggle="modal" data-target="#myModalAverage"></button>
+<button type="button" id="js-show-winner" class="btn btn-primary btn-lg js-show-winner hidden" data-toggle="modal" data-target="#myModalAfterWinner"></button>
+<best-lap></best-lap>
+<average-speed></average-speed>
+<after-winner></after-winner>

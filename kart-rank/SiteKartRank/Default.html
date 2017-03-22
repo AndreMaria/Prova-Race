@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="public/Import/angular.js"></script>
+    <script src="public/Import/angular-route.js"></script>
+    <script src="public/Import/angular-resource.js"></script>
+    <script src="public/javascripts/app.js"></script>
+    <script src="public/javascripts/services.js"></script>
+    <script src="public/javascripts/directives.js"></script>
+    <script src="public/javascripts/controllers/controller.js"></script>
+
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="public/javascripts/bootstrap.js"></script>
+</head>
+<body ng-app="kartRank">
+    <div>
+        <nav class="navbar navbar-default" role="navigation">
+            <div class="container js-menuStart">
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li>
+                            <a href="/default.html" class="js-menu">Result Race</a>
+                        </li>
+                        <li>
+                            <a href="default.html#!/records" class="js-menu">Records</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div ng-view>
+
+    </div>
+</body>
+</html>

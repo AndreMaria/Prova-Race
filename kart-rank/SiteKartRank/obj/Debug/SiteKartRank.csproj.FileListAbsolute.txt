@@ -1,0 +1,66 @@
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\ApplicationInsights.config
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\roslyn\csc.exe
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\roslyn\System.Collections.Immutable.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\roslyn\vbc.exe
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\roslyn\VBCSCompiler.exe
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\roslyn\VBCSCompiler.exe.config
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\SiteKartRank.dll.config
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\SiteKartRank.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\SiteKartRank.pdb
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\Microsoft.AI.Web.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\Microsoft.AI.WindowsServer.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\Microsoft.ApplicationInsights.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\Microsoft.AI.Web.xml
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\Microsoft.AI.WindowsServer.xml
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\Microsoft.ApplicationInsights.xml
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\obj\Debug\SiteKartRank.csprojResolveAssemblyReference.cache
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\obj\Debug\SiteKartRank.dll
+c:\users\andre maria\documents\visual studio 2015\Projects\kart-rank\SiteKartRank\obj\Debug\SiteKartRank.pdb
+D:\kart-rank\SiteKartRank\bin\ApplicationInsights.config
+D:\kart-rank\SiteKartRank\bin\roslyn\csc.exe
+D:\kart-rank\SiteKartRank\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\kart-rank\SiteKartRank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\kart-rank\SiteKartRank\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\kart-rank\SiteKartRank\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\kart-rank\SiteKartRank\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\kart-rank\SiteKartRank\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\kart-rank\SiteKartRank\bin\roslyn\System.Collections.Immutable.dll
+D:\kart-rank\SiteKartRank\bin\roslyn\System.Reflection.Metadata.dll
+D:\kart-rank\SiteKartRank\bin\roslyn\vbc.exe
+D:\kart-rank\SiteKartRank\bin\roslyn\VBCSCompiler.exe
+D:\kart-rank\SiteKartRank\bin\roslyn\VBCSCompiler.exe.config
+D:\kart-rank\SiteKartRank\bin\SiteKartRank.dll.config
+D:\kart-rank\SiteKartRank\bin\SiteKartRank.dll
+D:\kart-rank\SiteKartRank\bin\SiteKartRank.pdb
+D:\kart-rank\SiteKartRank\bin\Microsoft.AI.Agent.Intercept.dll
+D:\kart-rank\SiteKartRank\bin\Microsoft.AI.DependencyCollector.dll
+D:\kart-rank\SiteKartRank\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\kart-rank\SiteKartRank\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\kart-rank\SiteKartRank\bin\Microsoft.AI.Web.dll
+D:\kart-rank\SiteKartRank\bin\Microsoft.AI.WindowsServer.dll
+D:\kart-rank\SiteKartRank\bin\Microsoft.ApplicationInsights.dll
+D:\kart-rank\SiteKartRank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\kart-rank\SiteKartRank\bin\Microsoft.AI.DependencyCollector.xml
+D:\kart-rank\SiteKartRank\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\kart-rank\SiteKartRank\bin\Microsoft.AI.Web.xml
+D:\kart-rank\SiteKartRank\bin\Microsoft.AI.WindowsServer.xml
+D:\kart-rank\SiteKartRank\bin\Microsoft.ApplicationInsights.xml
+D:\kart-rank\SiteKartRank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\kart-rank\SiteKartRank\obj\Debug\SiteKartRank.csprojResolveAssemblyReference.cache
+D:\kart-rank\SiteKartRank\obj\Debug\SiteKartRank.dll
+D:\kart-rank\SiteKartRank\obj\Debug\SiteKartRank.pdb

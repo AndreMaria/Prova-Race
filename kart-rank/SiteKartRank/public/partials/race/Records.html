@@ -1,0 +1,76 @@
+﻿<div class="container" ng-init="GetRecords()">
+    <div>
+        <div class="row">
+            <div class="col-sm-12">
+                &nbsp;
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="row">
+            <div class="col-sm-12">
+                <h4>Records</h4>
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="table">
+            <div class="row">
+                <div class="col-sm-12">
+                    <table data-toggle="table" class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    PilotId
+                                </th>
+                                <th>
+                                    PilotName
+                                </th>
+                                <th>
+                                    Time Max
+                                </th>
+                                <th>
+                                    Time Mim
+                                </th>
+                                <th>
+                                    Total Time
+                                </th>
+                                <th>
+                                    Best Lap
+                                </th>
+                                <th>
+                                    Average Speed
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="row in result">
+                                <td>
+                                    {{row.PilotId}}
+                                </td>
+                                <td>
+                                    {{row.PilotName}}
+                                </td>
+                                <td>
+                                    {{row.TimeMax}}
+                                </td>
+                                <td>
+                                    {{row.TimeMim}}
+                                </td>
+                                <td>
+                                    {{row.TotalTime}}
+                                </td>
+                                <td>
+                                    {{row.BestLap}}
+                                </td>
+                                <td>
+                                    {{row.AverageSpeed}}
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
