@@ -58,3 +58,33 @@ D:\kart-rank\Kart-Rank-Test\bin\Debug\Newtonsoft.Json.xml
 D:\kart-rank\Kart-Rank-Test\obj\Debug\Kart-Rank-Test.csprojResolveAssemblyReference.cache
 D:\kart-rank\Kart-Rank-Test\obj\Debug\Kart-Rank-Test.dll
 D:\kart-rank\Kart-Rank-Test\obj\Debug\Kart-Rank-Test.pdb
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\obj\Debug\Kart-Rank-Test.csprojResolveAssemblyReference.cache
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\obj\Debug\Kart-Rank-Test.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\obj\Debug\Kart-Rank-Test.pdb
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\ApplicationInsights.config
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\roslyn\csc.exe
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\roslyn\vbc.exe
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\Kart-Rank-Test.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\Kart-Rank-Test.pdb
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\kart-rank.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\nunit.framework.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\System.Web.Http.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\kart-rank.pdb
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\nunit.framework.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\System.Web.Http.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\Kart-Rank-Test\bin\Debug\Newtonsoft.Json.xml

@@ -121,3 +121,44 @@ C:\Users\andre.maria\Documents\GitHub\Prova-Race\kart-rank\kart-rank\bin\System.
 C:\Users\andre.maria\Documents\GitHub\Prova-Race\kart-rank\kart-rank\obj\Debug\kart-rank.csprojResolveAssemblyReference.cache
 C:\Users\andre.maria\Documents\GitHub\Prova-Race\kart-rank\kart-rank\obj\Debug\kart-rank.dll
 C:\Users\andre.maria\Documents\GitHub\Prova-Race\kart-rank\kart-rank\obj\Debug\kart-rank.pdb
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\ApplicationInsights.config
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\roslyn\csc.exe
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\roslyn\vbc.exe
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\kart-rank.dll.config
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\kart-rank.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\kart-rank.pdb
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.AI.Web.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Newtonsoft.Json.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\System.Net.Http.Formatting.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\System.Web.Http.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\System.Web.Http.WebHost.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.AI.Web.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Newtonsoft.Json.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\System.Net.Http.Formatting.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\System.Web.Http.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\System.Web.Http.WebHost.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\obj\Debug\kart-rank.csprojResolveAssemblyReference.cache
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\obj\Debug\kart-rank.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\obj\Debug\kart-rank.pdb

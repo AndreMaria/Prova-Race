@@ -97,3 +97,36 @@ C:\Users\andre.maria\Documents\GitHub\Prova-Race\kart-rank\SiteKartRank\bin\Micr
 C:\Users\andre.maria\Documents\GitHub\Prova-Race\kart-rank\SiteKartRank\obj\Debug\SiteKartRank.csprojResolveAssemblyReference.cache
 C:\Users\andre.maria\Documents\GitHub\Prova-Race\kart-rank\SiteKartRank\obj\Debug\SiteKartRank.dll
 C:\Users\andre.maria\Documents\GitHub\Prova-Race\kart-rank\SiteKartRank\obj\Debug\SiteKartRank.pdb
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\ApplicationInsights.config
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\roslyn\csc.exe
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\roslyn\vbc.exe
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\SiteKartRank.dll.config
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\SiteKartRank.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\SiteKartRank.pdb
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\Microsoft.AI.Web.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\Microsoft.AI.Web.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\obj\Debug\SiteKartRank.csprojResolveAssemblyReference.cache
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\obj\Debug\SiteKartRank.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\SiteKartRank\obj\Debug\SiteKartRank.pdb

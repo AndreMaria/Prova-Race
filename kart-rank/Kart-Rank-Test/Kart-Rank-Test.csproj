@@ -56,8 +56,14 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="RepositoryTest.cs" />
-    <Compile Include="ServiceKartLogTest.cs" />
+    <Compile Include="GetRankPositionTest.cs" />
+    <Compile Include="GetRankTimeTest.cs" />
+    <Compile Include="GetRecordsTest.cs" />
+    <Compile Include="GetResultAfterWinnerTest.cs" />
+    <Compile Include="GetResultRaceTest.cs" />
+    <Compile Include="GetTotalTimeTest.cs" />
+    <Compile Include="Models\InMemoryRepository.cs" />
+    <Compile Include="Repository\KartLogRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
