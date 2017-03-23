@@ -162,3 +162,11 @@ C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart
 C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\obj\Debug\kart-rank.csprojResolveAssemblyReference.cache
 C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\obj\Debug\kart-rank.dll
 C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\obj\Debug\kart-rank.pdb
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Swashbuckle.Core.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\WebActivatorEx.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.Owin.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Owin.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\System.Web.Http.Owin.dll
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\Microsoft.Owin.xml
+C:\Users\Andre Maria\Documents\Visual Studio 2015\Projects\Prova_\kart-rank\kart-rank\bin\System.Web.Http.Owin.xml
